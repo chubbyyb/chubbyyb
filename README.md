@@ -1,6 +1,16 @@
 ## Hi there 👋
+My languages:
+* C, C#, Python, Lua, Java, HTML/CSS/JS
 
-#### I make things
+My software:
+* Unity
+* Gadot
+* Blender
+* Microsoft Excel
+* Microsoft Access
+* Visual Studio / Visual Studio Code / Pycharm
+* Photoshop
+* Sony Vegas Pro
 
 
 <div align="center">
